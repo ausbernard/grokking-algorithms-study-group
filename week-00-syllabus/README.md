@@ -12,9 +12,8 @@ This syllabus covers:
 - communication rules
 - "definition of done" each week
 
----
 ## Purpose of This Study Group
----
+
 This group is designed for both **new and experienced** engineers who want to:
 
 - Create a consistent algorithm practice habit
@@ -23,9 +22,8 @@ This group is designed for both **new and experienced** engineers who want to:
 - Build interviewing fluency
 - Produce real GitHub code each week
 
----
+
 ## Schedule & Pace
----
 
 **Start date**: *tbd*
 
@@ -129,9 +127,9 @@ Implement recursive versions for:
 - LC Medium: Subsets
 </details>
 
----
+
 ## 📕 Required Materials
----
+
 - *Grokking Algorithms* by Aditya Bhargava
 - A GitHub account (ability to clone, fork, push, and pull)
 - Local dev environment (Python/JS/etc.)
@@ -150,9 +148,9 @@ Implement recursive versions for:
 - A tool like [Excalidraw](https://excalidraw.com/) (for tree/BFS sketches)
 </details>
 
----
+
 ## Roles & Expectations
----
+
 **Members**:
 - Read the chapter before the meeting
 - Complete the book exercises
@@ -171,16 +169,15 @@ Implement recursive versions for:
 - Review high-level structure
 - Run breakout sessions 
 
----
+
 ## Weekly Workflow
----
 
 1. **Read** the assigned chapter
-1. **Solve** book exercises
-1. **Complete** stretch/interview-level problems
-1. **Commit** solutions to GitHub under the proper week folder
-1. **Meet** weekly to discuss & pair-program
-1. **Reflect** by writing 3 takeaways in your `README.md`
+2. **Solve** book exercises
+3. **Complete** stretch/interview-level problems
+4. **Commit** solutions to GitHub under the proper week folder
+5. **Meet** weekly to discuss & pair-program
+6. **Reflect** by writing 3 takeaways in your `README.md`
 
 
 ## 📝 WEEKLY MEETING TEMPLATE (60–90 minutes)
