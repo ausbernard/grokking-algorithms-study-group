@@ -2,10 +2,7 @@
 
 > A collaborative, week-by-week journey through Aditya Bhargava’s “Grokking Algorithms.”
 
----
-
 ## Overview
----
 
 ### What is the study group, and who is it for
 
@@ -24,27 +21,24 @@ Each week will walk through a chapter until we have walked through the entire bo
 ### Why we're doing it
 Learning algorithms is hard and if you want to go nowhere fast -- go alone. We aim to learn algorithmic fundamentals deeply with peers and practice together.
 
----
 ## Our goals
----
+
 - Build solid fundamentals of core algorithmic concepts
 - Understand when to implement algorithms and why
 - Build implementation muscle
 - Become interview ready
 - Level up our code quality
 
----
 ## Structure
----
+
 - 12 weeks
 - Weekly readings
 - Weekly coding problems
 - GitHub uploads
 - Weekly meetings
 
----
 ## Repository Structure Explained
----
+
 ```
 /
 ├── week-00-syllabus/
@@ -60,9 +54,8 @@ Each week contains:
 - `stretch-problems/` — coding challenges
 - `notes/` — meeting recap
 
----
 ## Quick Start
----
+
 ✔️ Get ahold of `Grokking Algorithms`, *An illustrated guide for programmers and other curious people*. Either version will work.
 
 ✔️ Clone or fork this repo
@@ -78,9 +71,7 @@ Each week contains:
 ✔️ Join us on our weekly meeting! If you cannot make it, then follow along in the weekly sections. Ping in the channel if you have questions or get stuck.
 
 
----
 ## Weekly Links
----
 
 [Week 0 – Syllabus](./week-00-syllabus/README.md)
 [Week 1 – Introduction](./week-01-introduction/README.md)
@@ -88,4 +79,4 @@ Each week contains:
 ...
 [updating weekly]
 
----
+
