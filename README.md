@@ -12,7 +12,9 @@ This study group is a mix of new and seasoned software engineers learning and re
 ### What book we're using
 Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People. 
 *By: Aditya Bhargava*
+
 <img src="resources/grokking-algorithms-second-edition.jpg" alt="drawing" width="200"/>
+
 - `Edition 1` or `Edition 2` will work fine
 
 
