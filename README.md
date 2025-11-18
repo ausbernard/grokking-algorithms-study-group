@@ -74,6 +74,7 @@ Each week contains:
 ## Weekly Links
 
 [Week 0 – Syllabus](./week-00-syllabus/README.md)
+
 [Week 1 – Introduction](./week-01-introduction/README.md)
 
 ...
