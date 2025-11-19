@@ -1,5 +1,9 @@
 # 📘 Grokking Algorithms Study Group
 
+![Study Group](https://img.shields.io/badge/Study%20Group-Grokking%20Algorithms-blueviolet)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Made With](https://img.shields.io/badge/Made%20With-Markdown-lightgrey)
+
 > A collaborative, week-by-week journey through Aditya Bhargava’s “Grokking Algorithms.”
 
 ## Overview
