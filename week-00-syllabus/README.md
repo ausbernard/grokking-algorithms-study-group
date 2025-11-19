@@ -114,9 +114,10 @@ We are covering the book from start to finish:
     ---
     week-01-introduction/
        problems/
-        yourname/
-          problem-01.py
-          problem-02.py
+        solutions/
+          yourname/
+            problem-01.py
+            problem-02.py
     ---
     ```
     ```bash
