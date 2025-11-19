@@ -42,7 +42,7 @@ Learning algorithms is hard and if you want to go nowhere fast -- go alone. We a
 - Weekly meetings
 
 ## Repository Structure Explained
-
+Each week corresponds to a chapter in the book and is organized as its own directory.
 ```
 /
 ├── week-00-syllabus/
@@ -53,10 +53,13 @@ Learning algorithms is hard and if you want to go nowhere fast -- go alone. We a
 ├── week-05-hash-tables/
 ├── ...etc...
 ```
+
 Each week contains:
-- `README.md` — instructions, goals, problems
-- `stretch-problems/` — coding challenges
-- `notes/` — meeting recap
+
+- **README.md** — weekly overview, goals, reading assignments, and required problems  
+- **problems/** — includes required exercises and optional stretch / interview-level challenges  
+- **notes/** — meeting recap, takeaways, and shared insights  
+- **solutions/** *(in each member's fork)* — your personal solutions, added under your own folder  
 
 ## Quick Start
 
@@ -77,9 +80,9 @@ Each week contains:
 
 ## Weekly Links
 
-[Week 0 – Syllabus](./week-00-syllabus/README.md)
+[Week 00 – Syllabus](./week-00-syllabus/README.md)
 
-[Week 1 – Introduction](./week-01-introduction/README.md)
+[Week 01 – Introduction](./week-01-introduction/README.md)
 
 ...
 [updating weekly]
