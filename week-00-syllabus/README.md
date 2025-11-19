@@ -10,7 +10,9 @@ Welcome to the **Grokking Algorithms Study Group** — a collaborative, engineer
 ## *LEARNERS WANTED.*
 
 *Anyone who is interested in learning is welcome to join, consistency is encouraged.*
+
 **We will move together through the book chapter-by-chapter.**
+
 *Until we have finished the book.*
 
 **Goal:** By the end of the program, every member will have a small portfolio of algorithms implementations on GitHub.
@@ -182,11 +184,11 @@ We are all here to improve.
 
 Before Week 01, please:
 
-✔️ Clone or fork this repo
-
-✔️ Check out the folder structure
+✔️ Fork this repo (from `main` branch)
 
 ✔️ Read the README's.
+
+✔️ Browse the folder structure
 
 ✔️ Set up your coding language environment
 
@@ -196,14 +198,7 @@ Before Week 01, please:
 
 ## 💬 Questions / Contributions
 
-If you want to add problems, improve notes, or contribute:
-1. Create a branch using our naming convention
-2. Open a PR
-3. We'll review and merge into main
-
-Forking is welcome for personal experimentation.
-
-**If you spot an problems leave an `issue` at the top of the repo.**
+**If you spot an problems or have any questions leave an `issue` at the top of the repo.**
 
 
 
