@@ -44,10 +44,15 @@ Give the run time for each of these scenarios in terms of Big O.
 
 # Extra Readings
 Big O notation revisited (ch.4 - of book)
+
 [Binary Trees](https://www.geeksforgeeks.org/binary-tree-data-structure/)
+
 [B-trees](https://www.programiz.com/dsa/b-tree)
+
 [Red-black trees](https://www.programiz.com/dsa/red-black-tree)
+
 [Heaps](https://www.programiz.com/dsa/heap-data-structure)
+
 [Splay trees](https://www.geeksforgeeks.org/splay-tree-set-1-insert)
 
 # Meeting 
