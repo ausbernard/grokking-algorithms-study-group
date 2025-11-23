@@ -10,12 +10,14 @@
 - Define an algorithm + explain it in terms a kindergartner would understand
 - Write a sorting Binary algorithm from scratch 
 - Explain Big-O notation + explain it in terms a kindergartner would understand
-- Define the Big-O running time of our Binary search algorithm 
+- Define the Big-O running time of our Binary search algorithm
+- Define the Big-O running time of our Linear search algorithm
 - Recap all learning in 3 sentences.
 
 **Meeting Goals:**
 - Talk about repository & README's & structure
 - Collectively discuss how this group will operate
+- Go over the `week-01-introduction/notes/` section
 - Develop a Big-O cheat sheet together and upload in `week-01-introduction/notes/`
 - Write binary search from scratch with a partner and describe the Big-O running time.
 
@@ -28,6 +30,3 @@
 - LC Easy: Binary Search (#704)
 - Explain Big-O for a piece of Python/JS code (peer review)
 
-
-
-#
