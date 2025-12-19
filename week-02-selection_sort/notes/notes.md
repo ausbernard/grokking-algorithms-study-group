@@ -64,3 +64,9 @@ When asked to “explain to a child,” imagine explaining to a curious 8-year-o
 
 18. In your own words:  
     Why do arrays *feel* faster than linked lists in practice, even when both can be O(n)?
+
+### Bonus (Optional)
+Explain the difference between arrays and linked lists using:
+- a real-world analogy
+- a diagram
+- or a short code example
