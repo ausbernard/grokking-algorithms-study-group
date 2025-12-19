@@ -8,7 +8,7 @@
 
 **Reading Goals:**
 - Define an algorithm + explain it in terms a kindergartner would understand
-- Write a sorting Binary algorithm from scratch 
+- Write a Binary search algorithm from scratch 
 - Explain Big-O notation + explain it in terms a kindergartner would understand
 - Define the Big-O running time of our Binary search algorithm
 - Define the Big-O running time of our Linear search algorithm

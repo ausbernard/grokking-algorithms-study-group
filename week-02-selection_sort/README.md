@@ -5,6 +5,9 @@
 ![Made With](https://img.shields.io/badge/Made%20With-Markdown-lightgrey)
 
 **Reading:** Chapter 2
+- Learn about arrays and linked lists
+- Selection sort algorithm (slow sorting - O(n²))
+
 **Meeting Goals:**
 - Understand sorting basics
 - Implement selection sort step-by-step
