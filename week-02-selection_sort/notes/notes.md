@@ -1,19 +1,66 @@
-# Reading Questions
+# Reading Questions — Week 02 (Selection Sort, Arrays & Linked Lists)
 
-1. 
+Answer these in your own words.  
+When asked to “explain to a child,” imagine explaining to a curious 8-year-old.
 
-# Extra Questions
-1. a
+---
 
-# Exercises
-Give the run time for each of these scenarios in terms of Big O.
-**1.3**: You have a name, and you want to find the person's phone number in the phone book (names are ordered): 
-**1.4**: You have a phone number, and you want to find the person's name in the phone book (phone numbers are un-ordered): 
-**1.5**: You want to read the numbers of every person in the phone: 
-**1.6**: You want to read the numbers of just A's: 
+## Memory & Data Storage
 
-# Extra Readings
-a
+1. Explain, as if you are talking to a child, how **computer memory** works.
 
-# Meeting 
-**Big O Notation Cheat Sheet**
+2. Why does the *location* of data in memory matter for performance?
+
+---
+
+## Arrays
+
+3. Explain, as if you are talking to a child, what an **array** is.
+
+4. What are arrays especially good at?  
+   (Think about speed and access patterns.)
+
+5. What does it mean that arrays store elements in **contiguous memory**?
+
+6. Why does inserting an item into the *middle* of an array take **O(n)** time?
+
+7. When an array is “full,” what is a common workaround used by programming languages to handle insertion anyway?
+
+---
+
+## Linked Lists
+
+8. Explain, as if you are talking to a child, what a **linked list** is.
+
+9. How is a linked list stored differently in memory compared to an array?
+
+10. What are linked lists especially good at?
+
+---
+
+## Tradeoffs & Comparisons
+
+11. Which data structure is better for **lots of inserts**, and why?
+
+12. Which data structure is better for **lots of deletions**, and why?
+
+13. Which data structure is better for **lots of reads**, and why?
+
+14. Why is searching an unsorted linked list **O(n)** even though inserts are fast?
+
+---
+
+## Access Patterns
+
+15. What are the **two types of access** discussed in the book?
+
+16. Which data structure supports **random access**?
+
+17. Which data structure supports **sequential access**?
+
+---
+
+## Reflection
+
+18. In your own words:  
+    Why do arrays *feel* faster than linked lists in practice, even when both can be O(n)?
